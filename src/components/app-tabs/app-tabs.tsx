@@ -23,7 +23,7 @@ export class AppTabs {
           </ion-tab-button>
           <ion-tab-button tab="tab-notice">
             <ion-icon name="notifications"></ion-icon>
-            <ion-badge color="danger">12</ion-badge>
+            {/* <ion-badge color="danger">12</ion-badge> */}
             <ion-label>Notices</ion-label>
           </ion-tab-button>
         </ion-tab-bar>
